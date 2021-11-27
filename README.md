@@ -13,6 +13,7 @@ Este projeto foi criado durante a maratona Discovery da Rocketseat.
 Aplicação de controle financeiro desenvolvido por Mayk Brito durante a Maratona Discover oferecida pela Rocketseat.
 O objetivo da aplicação é facilitar o controle financeiro das pessoas de forma simples e rapida.
 Todos os dados sobre gastos e ganhos ficam salvos no Local Storage do navegador, assim, uma vez que a pagina é atualizada, os dados inseridos não serão perdidos.
+<br><a href="https://luc-ribeiro.github.io/dev-finances/">Live Preview</a>
 
 ## 🚀 Tecnologias
 
