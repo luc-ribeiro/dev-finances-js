@@ -12,8 +12,6 @@ Dev.finances
 <br>
 
 ## 💻 Project
-This project was created during Rocketseat's Discovery marathon.
-
 Financial control application developed by Mayk Brito during the Discover Marathon offered by Rocketseat.
 The application's goal is to facilitate people's financial control in a simple and fast way.
 All data about expenses and earnings are saved in the browser's Local Storage, so once the page is refreshed, the entered data will not be lost.
